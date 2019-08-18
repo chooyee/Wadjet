@@ -1,0 +1,10 @@
+C:\Users\FORGE-15 I7\source\repos\FaceRecognition\EoH\obj\Debug\EoH.csprojAssemblyReference.cache
+C:\Users\FORGE-15 I7\source\repos\FaceRecognition\EoH\obj\Debug\EoH.Properties.Resources.resources
+C:\Users\FORGE-15 I7\source\repos\FaceRecognition\EoH\obj\Debug\EoH.csproj.GenerateResource.cache
+C:\Users\FORGE-15 I7\source\repos\FaceRecognition\EoH\obj\Debug\EoH.csproj.CoreCompileInputs.cache
+C:\Users\FORGE-15 I7\source\repos\FaceRecognition\EoH\bin\Debug\EoH.exe.config
+C:\Users\FORGE-15 I7\source\repos\FaceRecognition\EoH\bin\Debug\EoH.exe
+C:\Users\FORGE-15 I7\source\repos\FaceRecognition\EoH\bin\Debug\EoH.pdb
+C:\Users\FORGE-15 I7\source\repos\FaceRecognition\EoH\obj\Debug\EoH.exe
+C:\Users\FORGE-15 I7\source\repos\FaceRecognition\EoH\obj\Debug\EoH.pdb
+C:\Users\FORGE-15 I7\source\repos\FaceRecognition\EoH\obj\Debug\EoH.Example.resources
